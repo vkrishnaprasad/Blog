@@ -1,4 +1,5 @@
-/node_modules
+# Upload node modules folder also to git remote by uncommenting below line.
+# /node_modules
 npm-debug.log
 .DS_Store
 /*.env
