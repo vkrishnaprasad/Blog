@@ -1,6 +1,4 @@
-# Blog
-
-# How to start the app?
+# How to start the "Blog" app?
 
 1. You should have an active internet connection.
 2. Install **Node.js** by downloading from it's home page. This will automatically install npm as well.
